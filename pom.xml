@@ -11,6 +11,7 @@
     <modules>
         <module>mindmap-entity</module>
         <module>mindmap-framework</module>
+        <module>mindmap-service</module>
     </modules>
 
     <properties>
@@ -33,6 +34,8 @@
                 <artifactId>lombok</artifactId>
                 <version>1.18.22</version>
             </dependency>
+
+
         </dependencies>
     </dependencyManagement>
 
